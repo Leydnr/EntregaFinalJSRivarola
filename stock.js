@@ -1,0 +1,15 @@
+let stockProductos = [
+    { id: 1, nombre: "Las Tortugas", cantidad: 1, desc: "Malbec", precio: 2200, img: './img/villa-blanca-estate-malbec.png' },
+    { id: 2, nombre: "Las Tortugas", cantidad: 1, desc: "Bonarda", precio: 3500, img: './img/Las-Tortugas-Bonarda.png' },
+    { id: 3, nombre: "Don Nicanor", cantidad: 1, desc: "Malbec", precio: 4000, img: './img/donNicanorMalbec.png' },
+    { id: 4, nombre: "Don Nicanor", cantidad: 1, desc: "Cabernet Sauvignon", precio: 4200, img: './img/dNCabernet-Sauvignon.png' },
+    { id: 5, nombre: "Don Nicanor", cantidad: 1, desc: "Blend", precio: 2200, img: './img/dNBlend.png' },
+    { id: 6, nombre: "Don Nicanor", cantidad: 1, desc: "Chardonay", precio: 2500, img: './img/dNChardonnay-4.png' },
+    { id: 7, nombre: "Patrimonial", cantidad: 1, desc: "Malbec", precio: 3400, img: './img/patrimonialMalbec-5.png' },
+    { id: 8, nombre: "Patrimonial", cantidad: 1, desc: "Bonarda", precio: 3500, img: './img/patrimonialBonarda.png' },
+    { id: 9, nombre: "Patrimonial", cantidad: 1, desc: "Semillon", precio: 3800, img: './img/patrimonialSemillon-3.png' },
+    { id: 10, nombre: "Nieto Senetiner", cantidad: 1, desc: "Blend", precio: 2800, img: './img/Nieto-Senetiner_Blen-collection-white_2021-2.png' },
+    { id: 11, nombre: "Nieto Senetiner", cantidad: 1, desc: "Malbec", precio: 2700, img: './img/Nieto-Senetiner_Blend-collection-malbec_2021-2.png' },
+    { id: 12, nombre: "Nieto Senetiner", cantidad: 1, desc: "Rose", precio: 2700, img: './img/Nieto-Senetiner_rose_2020-2.png' },
+    {id: 13, nombre: "Nieto Senetiner", cantidad: 1, desc: "Chardonay", precio: 2900, img: './img/Nieto-Senetiner_chardonnay_2021-2.png'},
+]
